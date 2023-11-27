@@ -5,7 +5,7 @@ WP Media Description is a collection of Python 3 scripts designed to simplify th
 
 ## Scripts Included
 
-1. **Excel File Generation Script**: To kickstart the process, run this script to create an initial Excel file listing all JPG files. This file will serve as the foundation for the subsequent steps.
+1. **1_Create_Table**: To kickstart the process, run this script to create an initial Excel file listing all JPG files. This file will serve as the foundation for the subsequent steps.
 
 2. **Upload Check Script**: This script checks whether all files from the specified folder have already been uploaded to WordPress. It provides a list of missing files directly in the console for easy identification.
 
